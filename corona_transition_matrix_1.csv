@@ -1,0 +1,5 @@
+,home_incubating,moving_incubating,home_dead,moving_dead,home_recovered,moving_recovered,Notes
+home_incubating,0.01,0,0,0,0,0,1 in every 10 days a home person who is incubating the virus visits a friend because they have cabin fever and in 1/1 of those visits transmits the disease
+moving_incubating,0.01,0.025,0,0,0,0,1 in every 5 days a instacart delivery person or a plumber or a cleaning person whatever provides the virus to a home via a surface and ½ of those transmits the disease
+home_sick,0,0,0.04,0,0.96,0,Home sick people take strong precautions not to get mobile workers sick so there is no transfer that direction
+moving_sick,0.005,0.005,0,0.04,0,0.96,1 out of every 10 mobile workers decided to go to work even if they have some symptoms because they need the money to live and government financial relief is inadequate and they have a ½ chance of infecting a home each day and a ½ chance of infecting another mobile worker each day
