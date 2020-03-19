@@ -1,6 +1,14 @@
 # covid_spread
 Mathematical model to help answer the questions "how long will we need to stay home?" and "how bad will COVID-19 get?"
 
+Conclusion: We need to be even more careful not to transmit the disease than most people are being right now.
+
+## Each staying home household only transmits the virus to another staying home household once every 20 days.  So no going for walks with your best friend once every day or even every week.  You can only do that once per month if you are going to transmit the virus to them while you are with them.
+
+## A given moving/mobile worker like a food delivery person, must only communicate the virus to a stay at home household once every 20 days.  With all of the bags being carried and all of the individual fruits being picked up and put into bags by workers who might be incubating the virus, and with a delivery person delivering to 10-20 households per day, this can only result in a household getting infected from one of these deliveries once every 20 days.
+
+## The mobile workers need to be very careful as well.  If they are together at a grocery store or packing warehouse, a given worker can only transmit the virus to another worker once every 10 days.
+
 Please excuse the very rough form of this code.  It was done in haste.  We deeply welcome improvements to the model, and experiments to simulate different input assumptions.
 
 How Computer Modeling Of COVID-19's Spread Could Help Fight The Virus: https://www.npr.org/sections/health-shots/2020/03/04/811146915/how-computer-modeling-of-covid-19s-spread-could-help-fight-the-virus
