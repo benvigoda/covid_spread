@@ -9,9 +9,9 @@ How Computer Modeling Of COVID-19's Spread Could Help Fight The Virus: https://w
 
 But some say more could be done to take advantage of these modeling tools and the researchers' findings.
 
-"It is sort of an ad hoc, volunteer effort, and I think that's something that we could improve upon," says Caitlin Rivers, an infectious diseases modeler with the Johns Hopkins Center for Health Security.
+It is sort of an ad hoc, volunteer effort, and I think that's something that we could improve upon," says Caitlin Rivers, an infectious diseases modeler with the Johns Hopkins Center for Health Security.
 
-In her view, "modeling plays a really important role in understanding how an outbreak is unfolding, where it might be going, and what we should be thinking through."
+In her view, "modeling plays a really important role in understanding how an outbreak is unfolding, where it might be going, and what we should be thinking through.
 
 But only a small number of the modelers of epidemics work for the federal government, she says. Most are in academia, and they don't have formal relationships with officials who have to make key public health decisions.
 
