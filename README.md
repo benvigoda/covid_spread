@@ -3,7 +3,7 @@ Mathematical model to help answer the questions "how long will we need to stay h
 
 Conclusion: 
 
-## *This curve says that given how people are behaving now, there will be a day at the peak in late April when 100,000 households in Cambridge and Arlington MA will yield 4,500 new symptomatic cases in one day.  If 5% of those are serious cases, the hospitals will be admitting 225 serious cases per day at the peak, and will average on the order of 100 new serious cases per day for a twenty day period.  Given over a million households in the Boston area, that is on the order of 2,000 new serious cases per day for twenty days.  That is 40,000 serious cases in the Boston area in a very short period.  We do not have that many ventialtors.  The hospitals will still be over-run.*
+## *The simulations show that given how people are behaving now, there will be a day at the peak in late April when 100,000 households in Cambridge and Arlington MA will yield 4,500 new symptomatic cases in one day.  If 5% of those are serious cases, the hospitals will be admitting 225 serious cases per day at the peak, and will average on the order of 100 new serious cases per day for a twenty day period.  Given over a million households in the Boston area, that is on the order of 2,000 new serious cases per day for twenty days.  That is 40,000 serious cases in the Boston area in a very short period.  We do not have that many ventialtors.  The hospitals will still be over-run.*
 
 To flatten the curve, we need to be even more careful not to transmit the disease than most people are being right now.
 
