@@ -1,9 +1,9 @@
 # covid_spread
 Mathematical model to help answer the questions "how long will we need to stay home?" and "how bad will COVID-19 get?"
 
-Conclusion: We need to be even more careful not to transmit the disease than most people are being right now.
+Conclusion: To flatten the curve, we need to be even more careful not to transmit the disease than most people are being right now.
 
-## Each staying home household only transmits the virus to another staying home household once every 20 days.  So no going for walks with your best friend once every day or even every week.  You can only do that once per month if you are going to transmit the virus to them while you are with them.
+## Each staying home household needs to only transmit the virus to another staying home household once every 20 days.  So no going for walks with your best friend once every day or even every week.  One person from your household can only do that once per couple of weeks if you are going to transmit the virus to them while you are with them.
 
 ## A given moving/mobile worker like a food delivery person, must only communicate the virus to a stay at home household once every 20 days.  With all of the bags being carried and all of the individual fruits being picked up and put into bags by workers who might be incubating the virus, and with a delivery person delivering to 10-20 households per day, this can only result in a household getting infected from one of these deliveries once every 20 days.
 
