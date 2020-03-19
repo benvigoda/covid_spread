@@ -31,6 +31,8 @@ Putting that information out really quickly helped to bring a lot more attention
 
 Useful resources:
 
+https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
+
 https://www.masslive.com/coronavirus/2020/03/coronavirus-updates-how-many-cases-deaths-and-recoveries-other-essential-and-changing-information.html
 
 https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
