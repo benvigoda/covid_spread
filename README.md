@@ -19,7 +19,7 @@ We deeply welcome improvements to the model, and experiments to simulate differe
 
 2. Age groups. I wanted the model to be simple so that a lot of people could quickly read and understand it.  So I didn't add age bands like the models reported by the WHO modeling team.  Adding age bands would be a great way for a graduate student mathematical modeling to contribute.
 
-3. I didn't set this model up to learn the parameters from data.  This is a generative model.  It would be a great project to put it into, for example, https://pyro.ai/ and infer/learn the parameters from data.
+3. I didn't set this model up to learn the parameters from data.  This is a generative model.  It would be a great project to put it into, for example, https://pyro.ai/ and infer/learn the parameters from data.  It could become important to re-estimate the parameters on an ongoing basis, if for example Spring-time weather starts to turn the tide.
 
 
 How Computer Modeling Of COVID-19's Spread Could Help Fight The Virus: https://www.npr.org/sections/health-shots/2020/03/04/811146915/how-computer-modeling-of-covid-19s-spread-could-help-fight-the-virus
