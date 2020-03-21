@@ -21,6 +21,7 @@ We deeply welcome improvements to the model, and experiments to simulate differe
 
 3. I didn't set this model up to learn the parameters from data.  This is a generative model.  It would be a great project to put it into, for example, https://pyro.ai/ and infer/learn the parameters from data.  It could become important to re-estimate the parameters on an ongoing basis, if for example Spring-time weather starts to turn the tide.
 
+To contribute, email: ben.vigoda@gamalon.com
 
 How Computer Modeling Of COVID-19's Spread Could Help Fight The Virus: https://www.npr.org/sections/health-shots/2020/03/04/811146915/how-computer-modeling-of-covid-19s-spread-could-help-fight-the-virus
 
